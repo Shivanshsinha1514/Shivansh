@@ -19,3 +19,4 @@ f= str(input("Enter ypur first name :"))
 l= str(input("Enter your last name :"))
 name= f  + l
 print("Hello, ",name,"! Welcome to the python program" )
+jetbrains://pycharm/navigate/reference?project=PYTHON&path=2.py
