@@ -1,5 +1,5 @@
 # Shivansh
-#Assignment:1
+**#Assignment:1**
 #Task:1
 a=int(input("Enter the first number :"))
 b=int(input("Enter the second number :"))
@@ -11,3 +11,11 @@ print("Addition :",add)
 print("Subtraction :",sub)
 print("Multiplication :",mul)
 print("Division :",div)
+
+
+#Task:2
+
+f= str(input("Enter ypur first name :"))
+l= str(input("Enter your last name :"))
+name= f  + l
+print("Hello, ",name,"! Welcome to the python program" )
